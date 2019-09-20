@@ -1,0 +1,3 @@
+nama:okta
+alamat:pwt
+jurusan:d3 mi
